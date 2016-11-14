@@ -15,7 +15,7 @@ public class Main {
     }
 
 
-    private static void mymethod() {
+    private static void mymethod2() {
         System.out.println("lhflkjhfd;l");
     }
 }
